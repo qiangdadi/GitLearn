@@ -1,2 +1,4 @@
 this is line 2
 this is a line 4 and line 1 and 2 has been deleted unintentionally
+this is line 3
+this is a line 5, we use it to learn git merge conflit
